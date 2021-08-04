@@ -1,0 +1,10 @@
+const home_route = "/home_page";
+const login_route="/login_page";
+const register_route="/register_page";
+const profile_route = "/profile_page";
+const cart_route = "/cart_page";
+const favorite_route = "/favorite_page";
+const category_route = "/search_page";
+const edit_profile_route = "/edit_profile_page";
+const change_password_route="/change_password_page";
+const forgot_password_route="/forgot_password_page";
